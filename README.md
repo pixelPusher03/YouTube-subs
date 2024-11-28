@@ -1,28 +1,29 @@
-# ytsub
+# YouTube sub
 This is a Tool used to gain YouTube subscribers 
   
  ## <!-- Typing SVG --> 
  <p align="center"> 
      <a href="https://github.com/47hxl-53r"> 
          <img 
- src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=YouTube+free+subscribers+by+the+developer" 
+ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=YouTube+free+subscribers+by+the+developer+03" 
              alt="Typing SVG" 
          /> 
      </a> 
  </p> 
   
- <!-- Installation via Termux --> 
- <b><details><summary>Installation on Termux</summary></b> 
+ ## Installation via Termux 
+ 
  ```bash 
 # pkg install php 
 # git clone https://github.com/thedeveloper03/ytsub
 # cd ytsub 
 # php dev.php URL YOUTUBE
  ``` 
- </details> 
   
   # REQUIREMENTS 
- > yt channel link, Termux, php
+ > yt channel link
+ >Termux
+ > php
  
  # ACCESS CODE 
  You will be provided an Access code 
@@ -40,15 +41,12 @@ This is a Tool used to gain YouTube subscribers
  <p align="center"> 
      <a href="https://github.com/47hxl-53r"> 
          <img 
- src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=YouTube+free+subscribers+by+the+developer" 
+ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=YouTube+free+subscribers+by+the+developer+03" 
              alt="Typing SVG" 
          /> 
      </a> 
  </p> 
  </div>
-  <sub>Copyright © 2023 - <a href="https://github.com/thedeveloper03">The Developer</sub></a> 
-     </div> 
-     <br/> 
-     💖 
+ 
  </div>
 
