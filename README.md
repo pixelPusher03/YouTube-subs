@@ -15,8 +15,14 @@ This is a Tool used to gain YouTube subscribers
  
  ```bash 
 # pkg install php 
-# git clone https://github.com/thedeveloper03/ytsub
+```
+```
+# git clone https://github.com/pixelPusher03/ytsub
+```
+```
 # cd ytsub 
+```
+```
 # php dev.php URL YOUTUBE
  ``` 
   
