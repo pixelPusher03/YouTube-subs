@@ -17,10 +17,10 @@ This is a Tool used to gain YouTube subscribers
 # pkg install php 
 ```
 ```
-# git clone https://github.com/pixelPusher03/ytsub
+# git clone https://github.com/pixelPusher03/YouTube subs
 ```
 ```
-# cd ytsub 
+# cd YouTube-subs
 ```
 ```
 # php dev.php URL YOUTUBE
