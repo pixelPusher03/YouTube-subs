@@ -17,7 +17,7 @@ This is a Tool used to gain YouTube subscribers
 # pkg install php 
 ```
 ```
-# git clone https://github.com/pixelPusher03/YouTube subs
+# git clone https://github.com/pixelPusher03/YouTube-subs
 ```
 ```
 # cd YouTube-subs
